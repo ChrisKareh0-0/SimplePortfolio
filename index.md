@@ -163,7 +163,7 @@ Led the development of a dynamic news blog website for 961Times, enhancing the p
 
 This project streamlined the bug reporting and resolution process, improved team collaboration, and enhanced overall software quality, ensuring a smoother and more efficient development lifecycle.
 
-                                                                                                and many portfolio websites …
+                                                                                  and many portfolio websites …
 
 ## Skills
 
