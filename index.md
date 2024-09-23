@@ -52,72 +52,72 @@ Website: [chriskareh.click](https://www.chriskareh.click)
 ---
 
 <aside>
-<img src="https://www.notion.so/icons/graduate_gray.svg" alt="https://www.notion.so/icons/graduate_gray.svg" width="40px" /> Bachelor of Computer Sciences, Arab Open University ( 2020 - 2023 )
+Bachelor of Computer Sciences, Arab Open University ( 2020 - 2023 )
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/document_gray.svg" alt="https://www.notion.so/icons/document_gray.svg" width="40px" /> Cisco CyberSecurity Course
+Cisco CyberSecurity - American University of Technology
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/document_gray.svg" alt="https://www.notion.so/icons/document_gray.svg" width="40px" /> Life Skills Training, Unicef - CESVI - AVSI
+Life Skills Training, Unicef - CESVI - AVSI
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/document_gray.svg" alt="https://www.notion.so/icons/document_gray.svg" width="40px" /> Stock Market BootCamp, American University Of Technology
+Stock Market BootCamp, American University Of Technology
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/document_gray.svg" alt="https://www.notion.so/icons/document_gray.svg" width="40px" /> Forward Mena DevOps Certification Training
+Forward Mena DevOps Certification Training
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/document_gray.svg" alt="https://www.notion.so/icons/document_gray.svg" width="40px" /> Forward Mena Configuration Management with Ansible and Terraform
+Forward Mena Configuration Management with Ansible and Terraform
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/document_gray.svg" alt="https://www.notion.so/icons/document_gray.svg" width="40px" /> Forward Mena Docker Certification Training
+Forward Mena Docker Certification Training
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/document_gray.svg" alt="https://www.notion.so/icons/document_gray.svg" width="40px" /> Forward Mena Certified Kubernetes Administrator
+Forward Mena Certified Kubernetes Administrator
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/document_gray.svg" alt="https://www.notion.so/icons/document_gray.svg" width="40px" /> Forward Mena Docker with IBM
+Forward Mena Docker with IBM
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/document_gray.svg" alt="https://www.notion.so/icons/document_gray.svg" width="40px" /> Forward Mena Kubernetes with IBM
+Forward Mena Kubernetes with IBM
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/document_gray.svg" alt="https://www.notion.so/icons/document_gray.svg" width="40px" /> Forward Mena DevOps on AWS
+Forward Mena DevOps on AWS
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/document_gray.svg" alt="https://www.notion.so/icons/document_gray.svg" width="40px" /> Forward Mena CI/CD Pipeline with Jenkins
+Forward Mena CI/CD Pipeline with Jenkins
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/document_gray.svg" alt="https://www.notion.so/icons/document_gray.svg" width="40px" /> Forward Mena Git & Github
+Forward Mena Git & Github
 
 </aside>
 
 <aside>
-<img src="https://www.notion.so/icons/document_gray.svg" alt="https://www.notion.so/icons/document_gray.svg" width="40px" /> Forward Mena Docker Orchestration using Kubernetes
+Forward Mena Docker Orchestration using Kubernetes
 
 </aside>
 
