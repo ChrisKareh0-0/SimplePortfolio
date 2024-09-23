@@ -52,7 +52,7 @@ Website: [chriskareh.click](https://www.chriskareh.click)
 ---
 
 <aside>
-<img src="https://www.notion.so/icons/graduate_gray.svg" alt="https://www.notion.so/icons/graduate_gray.svg" width="40px" /> **Bachelor of Computer Sciences, Arab Open University ( 2020 - 2023 )**
+<img src="https://www.notion.so/icons/graduate_gray.svg" alt="https://www.notion.so/icons/graduate_gray.svg" width="40px" /> Bachelor of Computer Sciences, Arab Open University ( 2020 - 2023 )
 
 </aside>
 
@@ -163,7 +163,7 @@ Led the development of a dynamic news blog website for 961Times, enhancing the p
 
 This project streamlined the bug reporting and resolution process, improved team collaboration, and enhanced overall software quality, ensuring a smoother and more efficient development lifecycle.
 
-                                                                                                          *and many portfolio websites …*
+                                                                                                and many portfolio websites …
 
 ## Skills
 
@@ -182,4 +182,4 @@ This project streamlined the bug reporting and resolution process, improved team
 - Decision Making
 - Quality Management
 - Process Improvement
-- Change Management
+
